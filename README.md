@@ -7,8 +7,8 @@ This module was intended to list all of the UFO encounters into and easily dipla
 ## Resources
 Applications utilized for this study included:
 - JavaScript
-- html
-- css
+- HTML
+- CSS
 - Visual Studio
 - Personal GitHub account
 
