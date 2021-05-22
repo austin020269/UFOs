@@ -13,6 +13,6 @@ Applications utilized for this study included:
 - Personal GitHub account
 
 ## Analysis and Workflow
-Running the app.js file yielded my index.html file (file:///C:/Users/austi/Class/UFOs/index.html)
+Running the app.js (https://github.com/austin020269/UFOs/blob/main/static/js/app.js) file yielded an index.html (https://github.com/austin020269/UFOs/blob/main/index.html) with a final webpage as shown below.
 
 
