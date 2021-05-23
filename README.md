@@ -13,7 +13,7 @@ Applications utilized for this study included:
 - Personal GitHub account
 
 ## Analysis and Workflow
-Running the app.js (https://github.com/austin020269/UFOs/blob/main/static/js/app.js) file yielded an index.html (https://github.com/austin020269/UFOs/blob/main/index.html) with a final webpage as shown below.
+Running the app.js (https://github.com/austin020269/UFOs/blob/main/static/js/app_final.js) file yielded an index.html (https://github.com/austin020269/UFOs/blob/main/index.html) with a final webpage as shown below.
 
 ![alt text](https://github.com/austin020269/UFOs/blob/main/UFO_sightings_WP.PNG)
 
